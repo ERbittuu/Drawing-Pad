@@ -32,8 +32,8 @@ app:
   # e.g. images/app-preview.mp4
   # 640x1136px
 
-  app_twitter: "@erbittuu" # uncomment if the app has a twitter account "@my-awesome-app"
-  creator_twitter: "@erbittuu" # uncomment if creator has a twitter account "@awesome-dev"
+  # app_twitter: "@erbittuu" # uncomment if the app has a twitter account "@my-awesome-app"
+  # creator_twitter: "@erbittuu" # uncomment if creator has a twitter account "@awesome-dev"
   #social_image: # uncomment and add an image - defaults to icon
   # This will show up when your url is shared on sites like facebook and twitter
   # To update use path relative to project root with no leading slash:
@@ -42,7 +42,7 @@ app:
 #
 # Marketing
 #
-marketing_header: Does Awesome Stuff # Optional
+marketing_header: Awesome Ddrawing Apps For iPhone and iPad # Optional
 marketing_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 #
@@ -51,12 +51,12 @@ marketing_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
 # Includes an icon for each username you enter
 #
 social-links:
-  github: https://www.google.com
-  facebook: https://www.google.com
-  twitter: https://www.google.com
+  github: https://www.github.com/erbittuu
+  facebook: https://www.facebook.com/erbittuu
+  twitter: https://www.twitter.com/erbittuu
   # pinterest: https://www.google.com
-  instagram: https://www.google.com
-  email: anbva@gmail.com
+  instagram: https://www.instagram.com/erbittuu
+  email: jyotipatel2021@yahoo.com
   # youtube: # channel/<your_long_string> or <user-name>
   # googleplus: # anything in your profile username that comes after plus.google.com/
 
@@ -66,16 +66,6 @@ social-links:
 enable:
   app_icon: true
   smart_app_banner: true
-
-#
-# Device
-#
-# Available devices:
-# * iphone-se-silver-vertical
-# * iphone-se-space-gray-vertical
-# * ipod-touch-blue-vertical
-#
-# device: iphone-se-silver-vertical # REQUIRED
 
 #
 # Theme Settings
@@ -99,7 +89,7 @@ description: # Optional - Enter your site description
 #
 # Google Analytics
 #
-google_analytics: UA-233363743 # Enter your tracking code (e.g. UA-233363743) to activate tracking
+# google_analytics: UA-233363743 # Enter your tracking code (e.g. UA-233363743) to activate tracking
 
 #
 # !! You don't need to change any of the configuration flags below !!
