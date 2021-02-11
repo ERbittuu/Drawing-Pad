@@ -51,11 +51,11 @@ marketing_desc: "The drawing pad is based on a fully creative engine Cortex it o
 # Includes an icon for each username you enter
 #
 social-links:
-  github: https://www.github.com/erbittuu
-  facebook: https://www.facebook.com/erbittuu
-  twitter: https://www.twitter.com/erbittuu
+  github: erbittuu
+  facebook: erbittuu
+  twitter: erbittuu
   # pinterest: https://www.google.com
-  instagram: https://www.instagram.com/erbittuu
+  instagram: erbittuu
   email: jyotipatel2021@yahoo.com
   # youtube: # channel/<your_long_string> or <user-name>
   # googleplus: # anything in your profile username that comes after plus.google.com/
