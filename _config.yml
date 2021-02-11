@@ -43,10 +43,8 @@ app:
 # Marketing
 #
 marketing_header: Awesome Ddrawing App For iPhone and iPad # Optional
-marketing_desc: """
-The drawing pad is based on a fully creative engine Cortex it offers a number of powerful artistic tools and brushes for a realistic drawing experience.
-Bring your ideas and bring your striking creativity to life with beautiful sketches, drawings, paintings, doodles, stamps for the best productive time.
-"""
+marketing_desc: "The drawing pad is based on a fully creative engine Cortex it offers a number of powerful artistic tools and brushes for a realistic drawing experience. \n Bring your ideas and bring your striking creativity to life with beautiful sketches, drawings, paintings, doodles, stamps for the best productive time."
+
 #
 # Social Links
 #
